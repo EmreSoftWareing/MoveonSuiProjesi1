@@ -1,2 +1,3 @@
 # MoveonSuiProjesi1
 Uluslararası Üniversiteler Arası Sui Kullanımına Teşvik ve Öğrenci Bursları
+Projenin Ana Mantığı Dünya üniversitelerinin katılımına açık güncellenebilir öğrenci ,üniversite bilgileri ve birçok teşvik verebilecek Sui altyapısı ile öğrencilerin belirli şartları sağlaması veyahut ihtiyacı olduğu düşünülen üniversite ögrencilerine burs ödül proje bedeli gibi bazı teşvik edici maddeleri Sui coin veya Suipaddeki ortak çalışılan tokenler ile yapılarak hem geniş bir ağ oluşturulması sağlanabilir.Gerçek dünya ile sanal dünya birleştirilirse ve geliştirilirse çok geniş kapsamlı bir proje olabileceğini düşünerek 1 gün içerisinde ana mantık ve temasını geliştirmek üzere buraya ekliyorum.Umarım güzel bir projenin başlangıcı olur.
